@@ -21,6 +21,7 @@
 		4262F23E1951B8D000E57E0B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4262F2201951B8D000E57E0B /* UIKit.framework */; };
 		4262F2461951B8D000E57E0B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4262F2441951B8D000E57E0B /* InfoPlist.strings */; };
 		4262F2481951B8D000E57E0B /* JBCoundownLabelSampleProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4262F2471951B8D000E57E0B /* JBCoundownLabelSampleProjectTests.m */; };
+		4262F2541951B92F00E57E0B /* JBCountdownLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4262F2531951B92F00E57E0B /* JBCountdownLabel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		4262F2431951B8D000E57E0B /* JBCoundownLabelSampleProjectTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JBCoundownLabelSampleProjectTests-Info.plist"; sourceTree = "<group>"; };
 		4262F2451951B8D000E57E0B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4262F2471951B8D000E57E0B /* JBCoundownLabelSampleProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JBCoundownLabelSampleProjectTests.m; sourceTree = "<group>"; };
+		4262F2521951B92F00E57E0B /* JBCountdownLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JBCountdownLabel.h; sourceTree = "<group>"; };
+		4262F2531951B92F00E57E0B /* JBCountdownLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JBCountdownLabel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,9 +115,10 @@
 		4262F2221951B8D000E57E0B /* JBCoundownLabelSampleProject */ = {
 			isa = PBXGroup;
 			children = (
+				4262F2511951B8E100E57E0B /* JBCountdownLabel */,
+				4262F22E1951B8D000E57E0B /* Main.storyboard */,
 				4262F22B1951B8D000E57E0B /* AppDelegate.h */,
 				4262F22C1951B8D000E57E0B /* AppDelegate.m */,
-				4262F22E1951B8D000E57E0B /* Main.storyboard */,
 				4262F2311951B8D000E57E0B /* ViewController.h */,
 				4262F2321951B8D000E57E0B /* ViewController.m */,
 				4262F2341951B8D000E57E0B /* Images.xcassets */,
@@ -150,6 +154,15 @@
 				4262F2441951B8D000E57E0B /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4262F2511951B8E100E57E0B /* JBCountdownLabel */ = {
+			isa = PBXGroup;
+			children = (
+				4262F2521951B92F00E57E0B /* JBCountdownLabel.h */,
+				4262F2531951B92F00E57E0B /* JBCountdownLabel.m */,
+			);
+			name = JBCountdownLabel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4262F2541951B92F00E57E0B /* JBCountdownLabel.m in Sources */,
 				4262F2331951B8D000E57E0B /* ViewController.m in Sources */,
 				4262F22D1951B8D000E57E0B /* AppDelegate.m in Sources */,
 				4262F2291951B8D000E57E0B /* main.m in Sources */,
