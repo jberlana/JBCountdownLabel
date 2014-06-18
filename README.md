@@ -2,7 +2,7 @@
 
 **A `UILabel` subclass that displays a countdown**
 
-![image](<https://github.com/jberlana/JBCountdownLabel/raw/master/demo.gif>)
+![image](<https://raw.githubusercontent.com/jberlana/JBCoundownLabel/master/demo.gif>)
 
 `JBCountdownLabel` is `UILabel` subclass that displays a countdown with a defined amount of seconds. So you can customise the label just like a native `UILabel` and add some cool actions:
 
