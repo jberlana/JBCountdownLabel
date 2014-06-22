@@ -38,7 +38,7 @@
 
 @implementation JBCountdownLabel
 
-- (id)initWithFrame:(CGRect)frame format:(NSString *)string time:(int)seconds delegate:(id <CountdownDelegate>)delegate
+- (instancetype)initWithFrame:(CGRect)frame format:(NSString *)string time:(int)seconds delegate:(id <CountdownDelegate>)delegate
 {
     NSAssert(seconds > 0, @"You must provide a positive amount of time.");
     
