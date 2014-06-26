@@ -96,9 +96,12 @@
     NSString *currentTime = [self currentTimeString];
     self.text = [NSString stringWithFormat:self.stringFormat, currentTime];
     
-    if ([[NSDate date] timeIntervalSinceDate:self.expirationDate] >= 0) {
+    if ([[NSDate date] timeIntervalSinceDate:self.expirationDate] >= 0)
+    {
         [self cancelCountdown];
-        [self.delegate countdownFinnishIn:self];
+        if ([self.delegate respondsToSelector:@selector(countdownFinnishIn:)]) {
+            [self.delegate countdownFinnishIn:self];
+        }
     }
 }
 
