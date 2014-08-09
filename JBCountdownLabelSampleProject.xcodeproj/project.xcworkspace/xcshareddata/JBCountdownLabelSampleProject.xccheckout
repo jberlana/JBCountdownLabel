@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>A1130042-D080-4E7E-85DF-AE7A0AC3189A</string>
+	<string>0F035EC8-6AF5-45B2-A988-843147487C49</string>
 	<key>IDESourceControlProjectName</key>
-	<string>JBCoundownLabelSampleProject</string>
+	<string>JBCountdownLabelSampleProject</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8EA7BBA8-64A7-45E7-A3B7-496C0A1E261F</key>
+		<key>10E7120F169592FE0CFC61C0F5AB08157827AB72</key>
 		<string>https://github.com/jberlana/JBCoundownLabel.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>JBCoundownLabelSampleProject.xcodeproj/project.xcworkspace</string>
+	<string>JBCountdownLabelSampleProject.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8EA7BBA8-64A7-45E7-A3B7-496C0A1E261F</key>
+		<key>10E7120F169592FE0CFC61C0F5AB08157827AB72</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/jberlana/JBCoundownLabel.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8EA7BBA8-64A7-45E7-A3B7-496C0A1E261F</string>
+	<string>10E7120F169592FE0CFC61C0F5AB08157827AB72</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8EA7BBA8-64A7-45E7-A3B7-496C0A1E261F</string>
+			<string>10E7120F169592FE0CFC61C0F5AB08157827AB72</string>
 			<key>IDESourceControlWCCName</key>
-			<string>JBCoundownLabel</string>
+			<string>JBCountdownLabel</string>
 		</dict>
 	</array>
 </dict>

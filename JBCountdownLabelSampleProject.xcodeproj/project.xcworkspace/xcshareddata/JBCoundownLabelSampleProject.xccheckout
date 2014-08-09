@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1130042-D080-4E7E-85DF-AE7A0AC3189A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JBCoundownLabelSampleProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10E7120F169592FE0CFC61C0F5AB08157827AB72</key>
+		<string>https://github.com/jberlana/JBCoundownLabel.git</string>
+		<key>8EA7BBA8-64A7-45E7-A3B7-496C0A1E261F</key>
+		<string>https://github.com/jberlana/JBCoundownLabel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JBCoundownLabelSampleProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10E7120F169592FE0CFC61C0F5AB08157827AB72</key>
+		<string>../..</string>
+		<key>8EA7BBA8-64A7-45E7-A3B7-496C0A1E261F</key>
+		<string>../../../JBCoundownLabel</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jberlana/JBCoundownLabel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>10E7120F169592FE0CFC61C0F5AB08157827AB72</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8EA7BBA8-64A7-45E7-A3B7-496C0A1E261F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JBCoundownLabel</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10E7120F169592FE0CFC61C0F5AB08157827AB72</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JBCountdownLabel</string>
+		</dict>
+	</array>
+</dict>
+</plist>

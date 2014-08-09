@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4262F2181951B8D000E57E0B"
-               BuildableName = "JBCoundownLabelSampleProject.app"
-               BlueprintName = "JBCoundownLabelSampleProject"
-               ReferencedContainer = "container:JBCoundownLabelSampleProject.xcodeproj">
+               BuildableName = "JBCountdownLabelSampleProject.app"
+               BlueprintName = "JBCountdownLabelSampleProject"
+               ReferencedContainer = "container:JBCountdownLabelSampleProject.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4262F2391951B8D000E57E0B"
-               BuildableName = "JBCoundownLabelSampleProjectTests.xctest"
-               BlueprintName = "JBCoundownLabelSampleProjectTests"
-               ReferencedContainer = "container:JBCoundownLabelSampleProject.xcodeproj">
+               BuildableName = "JBCountdownLabelSampleProjectTests.xctest"
+               BlueprintName = "JBCountdownLabelSampleProjectTests"
+               ReferencedContainer = "container:JBCountdownLabelSampleProject.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4262F2181951B8D000E57E0B"
-            BuildableName = "JBCoundownLabelSampleProject.app"
-            BlueprintName = "JBCoundownLabelSampleProject"
-            ReferencedContainer = "container:JBCoundownLabelSampleProject.xcodeproj">
+            BuildableName = "JBCountdownLabelSampleProject.app"
+            BlueprintName = "JBCountdownLabelSampleProject"
+            ReferencedContainer = "container:JBCountdownLabelSampleProject.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4262F2181951B8D000E57E0B"
-            BuildableName = "JBCoundownLabelSampleProject.app"
-            BlueprintName = "JBCoundownLabelSampleProject"
-            ReferencedContainer = "container:JBCoundownLabelSampleProject.xcodeproj">
+            BuildableName = "JBCountdownLabelSampleProject.app"
+            BlueprintName = "JBCountdownLabelSampleProject"
+            ReferencedContainer = "container:JBCountdownLabelSampleProject.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4262F2181951B8D000E57E0B"
-            BuildableName = "JBCoundownLabelSampleProject.app"
-            BlueprintName = "JBCoundownLabelSampleProject"
-            ReferencedContainer = "container:JBCoundownLabelSampleProject.xcodeproj">
+            BuildableName = "JBCountdownLabelSampleProject.app"
+            BlueprintName = "JBCountdownLabelSampleProject"
+            ReferencedContainer = "container:JBCountdownLabelSampleProject.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
