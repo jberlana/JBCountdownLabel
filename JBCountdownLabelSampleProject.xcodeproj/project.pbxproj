@@ -124,8 +124,7 @@
 				4262F2341951B8D000E57E0B /* Images.xcassets */,
 				4262F2231951B8D000E57E0B /* Supporting Files */,
 			);
-			name = JBCountdownLabelSampleProject;
-			path = JBCoundownLabelSampleProject;
+			path = JBCountdownLabelSampleProject;
 			sourceTree = "<group>";
 		};
 		4262F2231951B8D000E57E0B /* Supporting Files */ = {
@@ -145,7 +144,8 @@
 				4262F2471951B8D000E57E0B /* JBCoundownLabelSampleProjectTests.m */,
 				4262F2421951B8D000E57E0B /* Supporting Files */,
 			);
-			path = JBCoundownLabelSampleProjectTests;
+			name = JBCoundownLabelSampleProjectTests;
+			path = JBCountdownLabelSampleProjectTests;
 			sourceTree = "<group>";
 		};
 		4262F2421951B8D000E57E0B /* Supporting Files */ = {
